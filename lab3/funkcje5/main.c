@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int sumSquares(int n){
-    int temp =0;
+    int temp=0;
     for(int i=1;i<=n;i++){
         temp += i*i;
     }
