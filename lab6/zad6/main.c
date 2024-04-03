@@ -27,5 +27,6 @@ int main()
     printTable(5, tab);
     reverseArr(5, tab);
     printTable(5, tab);
+    free(tab);
     return 0;
 }
