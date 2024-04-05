@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712307071 source:c:\users\local\documents\github\ps-powt\lab7\tablic13\main.c
+	<stdio.h>
+	<stdlib.h>
+
